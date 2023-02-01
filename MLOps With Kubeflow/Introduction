@@ -1,0 +1,4 @@
+Machine learning operations which combine a set of machine learning, devOps, and data engineering practices, which aims to deploy and maintain machine learning systems in production reliably has gained a lot of popularity in recent years. 
+Kubeflow which has also gained momentum is one amongst many free and open source machine learning platforms designed to enable using machine learning pipelines to orchestrate complicated workflows running on kubernetes.
+Machine learning operations incorporate different phases from data gathering, data analysis, data preparation and transformation, model training and development, model validation, model serving, model monitoring and model retraining. 
+In this course, interns will learn about the  application of machine learning operations with kubeflow, how kubeflow can be used to make deployments of machine learning workflows on kubernetes simple, portable and scalable, resulting in faster release and lower operating costs.
